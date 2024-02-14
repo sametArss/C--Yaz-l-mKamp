@@ -1,0 +1,7 @@
+C:\Users\samet\OneDrive\Masaüstü\OOP\MaskeTakip\MaskeTakip\bin\Debug\MaskeTakip.exe.config
+C:\Users\samet\OneDrive\Masaüstü\OOP\MaskeTakip\MaskeTakip\bin\Debug\MaskeTakip.exe
+C:\Users\samet\OneDrive\Masaüstü\OOP\MaskeTakip\MaskeTakip\bin\Debug\MaskeTakip.pdb
+C:\Users\samet\OneDrive\Masaüstü\OOP\MaskeTakip\MaskeTakip\obj\Debug\MaskeTakip.csproj.AssemblyReference.cache
+C:\Users\samet\OneDrive\Masaüstü\OOP\MaskeTakip\MaskeTakip\obj\Debug\MaskeTakip.csproj.CoreCompileInputs.cache
+C:\Users\samet\OneDrive\Masaüstü\OOP\MaskeTakip\MaskeTakip\obj\Debug\MaskeTakip.exe
+C:\Users\samet\OneDrive\Masaüstü\OOP\MaskeTakip\MaskeTakip\obj\Debug\MaskeTakip.pdb
